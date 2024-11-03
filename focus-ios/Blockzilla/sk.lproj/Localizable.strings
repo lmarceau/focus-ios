@@ -158,7 +158,7 @@
 "ExternalLink.cancelButton" = "Zrušiť";
 
 /* Button label in mailto: dialog to send an email. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html */
-"ExternalLink.emailButton" = "Poslať e-mail";
+"ExternalLink.emailButton" = "Poslať e‑mail";
 
 /* Accessibility label for done button in Find in Page Toolbar. */
 "FindInPage.Done" = "Hľadanie na stránke bolo dokončené";
@@ -356,7 +356,7 @@
 "Settings.setAsDefaultBrowser" = "Nastaviť ako predvolený prehliadač";
 
 /* %@ is the name of the app. Description for set as default browser option */
-"Settings.setAsDefaultBrowserDescription" = "Nastavte si automatické otváranie webových stránok, e-mailov a správ vo %@e.";
+"Settings.setAsDefaultBrowserDescription" = "Nastavte si automatické otváranie webových stránok, e‑mailov a správ vo %@e.";
 
 /* System value for theme section in settings menu */
 "Settings.systemTheme" = "Systémová téma";
@@ -479,7 +479,7 @@
 "ShowMeHowOnboarding.ButtonText.V2" = "Hotovo";
 
 /* This is the subtitle text for step one that is displayed in the Show Me How Onboarding Screen */
-"ShowMeHowOnboarding.SubtitleStepOne.V2" = "Ťuknite a dlho držte na domovskej obrazovke, kým sa ikony nezačnú chvieť.";
+"ShowMeHowOnboarding.SubtitleStepOne.V2" = "Ťuknite a dlho držte na ploche, kým sa ikony nezačnú chvieť.";
 
 /* This is the subtitle text for step three that is displayed in the Show Me How onboarding screen. %@ is the name of the app (Focus/Klar) */
 "ShowMeHowOnboarding.SubtitleStepThree.V2" = "Vyhľadajte %@. Potom vyberte miniaplikáciu.";
@@ -641,7 +641,7 @@
 "WidgetOnboardingCard.ActionButton" = "Ako na to";
 
 /* Subtitle shown on card view explaining the app has a widget option. %@ is the name of the app (Focus/Klar). */
-"WidgetOnboardingCard.Subtitle" = "Necháme vás v súkromnom prehliadaní, ale nabudúce môžete začať rýchlejšie s miniaplikáciou %@ na domovskej obrazovke.";
+"WidgetOnboardingCard.Subtitle" = "Necháme vás v súkromnom prehliadaní, ale nabudúce môžete začať rýchlejšie s miniaplikáciou %@ na ploche.";
 
 /* Title shown on card view explaining the app has a widget option */
 "WidgetOnboardingCard.Title" = "História prehliadania bola vymazaná! 🎉";
